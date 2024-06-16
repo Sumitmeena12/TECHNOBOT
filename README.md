@@ -1,7 +1,7 @@
 
 <h1 align="center">⚡ 𝕋𝕖𝕔𝕙𝕟𝕠𝔹𝕠𝕥 ⚡</h1>
 
-[![Bot logo](https://telegra.ph/file/b3af720021620b4f88a66.jpg)](https://t.me/apnihavelixd)
+[![Bot logo](https://telegra.ph/file/30a75e2943d25644c0140.jpg)](https://t.me/apnihavelixd)
 
 
 <h6>This is a userbot made for telegram. 
